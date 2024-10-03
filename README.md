@@ -1,0 +1,2 @@
+# myportifolio
+mycodee in vscode
